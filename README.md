@@ -9,6 +9,6 @@ Renombrar los siguientes archivos para ajustarse al proyecto:
 
 - `src/test/java/com/<project>/www/runner/CucumberRunnerTest.java` line 14, 15
 - `src/test/java/com/<project>`
-- `pom.xml` <groupId> `com.<project>.www`
+- `pom.xml` <groupId> line 7 `com.<project>.www`
 - `pom.xml` <artifactId> line 8
 - `pom.xml` <projectName> line 82
